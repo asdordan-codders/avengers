@@ -2,5 +2,3 @@
 
 * dr dom
 * redskull
-
-* Capitán America
